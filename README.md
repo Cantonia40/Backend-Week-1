@@ -5,7 +5,7 @@ This repository contains my foundational backend development work, focusing on s
 ## 🛠️ Technologies Used
 - **JavaScript / Node.js**
 - **Express.js**
-- **MangoDB
+- **MangoDB**
 
 ## ✨ What I Learned
 - Setting up a basic backend server
